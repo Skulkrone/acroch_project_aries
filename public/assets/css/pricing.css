@@ -1,0 +1,140 @@
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+body {
+    background: url(../../image/store-1586117_1920-002.jpg) no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    margin: 32pt 0 72pt 0;
+}
+h1.size {
+    font-size: 48pt;
+}
+button.save {
+    margin: 32pt auto;
+}
+button.btn {
+    display: block;
+}
+/*.container {
+    max-width: 960px;
+}*/
+
+.pricing-header {
+    max-width: 700px;
+}
+
+.card-deck .card {
+    min-width: 220px;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: none!important; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+button a {
+    color: #fff;
+}
+
+button a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+button:hover {
+    background: #007bff;
+}
+.text-muted {
+    text-align: center;
+    color: #fff!important;
+}
+.pricing-header {
+    max-width: 750px;
+}
+.btn-primary:hover {
+    color: #007bff;
+    background-color: #fff;
+    border-color: #007bff;
+}
+
+div.lien {
+    text-align: center;
+    margin: 24pt auto;
+    text-transform: uppercase;
+}
+div.lien a {
+    color: #fff;
+    font-weight: bold;
+}
+legend {
+    margin-bottom: 2.5rem;
+}
+label, .col-form-label {
+    color: #fff;
+}
+form {
+    margin-bottom: 24pt;
+}
+.form-group {
+    width: 20%;
+    margin: 0 auto 1rem auto;
+}
+option {
+    width: 50%;
+}
+.form-control {
+    padding: 0pt 4pt;
+    border: none;
+    border-bottom: 1px solid #ced4da;
+}
+button.btn {
+    margin: 2rem auto 0 auto;
+}
+.table {
+    width: 50%;
+    margin: 0 auto 1rem auto;
+    background: rgba(255,255,255,0.9);
+    border-radius: 10px;
+}
+.card {
+    background: rgba(255,255,255,0.9);
+}
+.table th {
+    width: 40%;
+    border-top: none;
+}
+
+.card-title {
+    margin: 0 0 .75rem 0;
+}
+
+.border-top {
+    border-top: 1px solid #DEB887!important;
+}
+footer {
+    background: rgba(222,184,135,0.7);
+
+}
+large.d-block a {
+    color: #000;
+}
+div.backgroung-menu {
+    background: #DEB887;
+}
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    padding-right: 0;
+    padding-left: 50px;
+}
+.row {
+    margin-right: 0;
+    margin-left: 0;
+    justify-content: space-around;
+}
